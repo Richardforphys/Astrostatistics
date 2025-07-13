@@ -11,7 +11,7 @@ tensorflow
 keras
 
 # Statistical modeling & Bayesian inference
-statsmodels
+#statsmodels
 pymc
 emcee
 
@@ -30,8 +30,8 @@ requests
 astroML
 
 # Dimensionality reduction and clustering
-umap-learn
-phik
+#umap-learn
+#phik
 
 # Deep learning utilities
 torch
