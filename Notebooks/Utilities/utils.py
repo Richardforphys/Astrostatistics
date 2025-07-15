@@ -265,3 +265,25 @@ def kde_sklearn(data, xgrid, bandwidth, kernel="gaussian"):
     kde_skl.fit(data[:, np.newaxis])
     log_pdf = kde_skl.score_samples(xgrid[:, np.newaxis]) # sklearn returns log(density)
     return np.exp(log_pdf)
+
+
+def train_test_cv_split(x_data, train_pc=0.5, cv_pc=0.25, test_pc=0.25):
+    """Shuffle and split data into train, CV, and test sets."""
+
+    # Make sure the proportions sum to 1
+    assert np.isclose(train_pc + cv_pc + test_pc, 1.0), "Proportions must sum to 1.0"
+
+    n = len(x_data)
+    indices = np.arange(n)
+    np.random.shuffle(indices)
+
+    # Compute split sizes
+    n_train = int(train_pc * n)
+    n_cv = int(cv_pc * n)
+
+    # Slice indices
+    train_idx = indices[:n_train]
+    cv_idx = indices[n_train:n_train + n_cv]
+    test_idx = indices[n_train + n_cv:]
+
+    return x_data[train_idx], x_data[cv_idx], x_data[test_idx]
