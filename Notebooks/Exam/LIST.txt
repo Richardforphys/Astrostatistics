@@ -2,9 +2,7 @@ _____________________________________________
 
 Coding problem list
 _____________________________________________
-1. Monty Hall problem (examinable) [see L02]
-2. Nasty integral; kicking horses (optional, both) [see L03]
-3. Cloning quasars (optional) [see L04]
+1. Monty Hall problem (examinable) [see L02] OK
 4. Position of a star (examinable) [see L05]
 5. Black-hole binary formation channels (examinable) [see L06]
 6. Irreducible mass of black holes (examinable) [see L07]
