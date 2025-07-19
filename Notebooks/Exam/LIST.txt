@@ -2,13 +2,13 @@ _____________________________________________
 
 Coding problem list
 _____________________________________________
-1. Monty Hall problem (examinable) [see L02] OK, RIPETUTO
-4. Position of a star (examinable) [see L05] OK, RIPETUTO
-5. Black-hole binary formation channels (examinable) [see L06] OK, RIPETUTO
-6. Irreducible mass of black holes (examinable) [see L07] Look again
-7. Planning a telescope observation (examinable) [see L10] OK, RIPETUTO
-8. Transient signal, part 1 (examinable) [see L11] OK, RIPETUTO
-9. Transient signal, part 2 (examinable) [see L12] OK, RIPETUTO
+1. Monty Hall problem (examinable) [see L02] OK, AGGIUNTO, RIPETUTO
+4. Position of a star (examinable) [see L05] OK, AGGIUNTO, RIPETUTO
+5. Black-hole binary formation channels (examinable) [see L06] OK, AGGIUNTO, RIPETUTO
+6. Irreducible mass of black holes (examinable) [see L07] OK, AGGIUNTO, RIPETUTO
+7. Planning a telescope observation (examinable) [see L10] OK, AGGIUNTO, RIPETUTO
+8. Transient signal, part 1 (examinable) [see L11] OK, AGGIUNTO, RIPETUTO
+9. Transient signal, part 2 (examinable) [see L12] OK, AGGIUNTO, RIPETUTO
 10.Handwritten digits (optional) [see L13] NO
 11.Gamma ray bursts (examinable) [see L14] OK
 12.HR diagram, part 1 (examinable) and part 2 (optional) [see L15] OK
