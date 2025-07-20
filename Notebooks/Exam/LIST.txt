@@ -10,10 +10,10 @@ _____________________________________________
 8. Transient signal, part 1 (examinable) [see L11] OK, AGGIUNTO, RIPETUTO
 9. Transient signal, part 2 (examinable) [see L12] OK, AGGIUNTO, RIPETUTO
 10.Handwritten digits (optional) [see L13] NO
-11.Gamma ray bursts (examinable) [see L14] OK
-12.HR diagram, part 1 (examinable) and part 2 (optional) [see L15] OK
-13.Supernova distances and redshifts, part 1 (examinable) [see L17] Look again
-14.Supernova distances and redshifts, part 2 (examinable) and part 3 (examinable) [see L18] OK
+11.Gamma ray bursts (examinable) [see L14] OK, AGGIUNTO, RIPETUTO
+12.HR diagram, part 1 (examinable) and part 2 (optional) [see L15] OK, AGGIUNTO, RIPETUTO
+13.Supernova distances and redshifts, part 1 (examinable) [see L17] OK, AGGIUNTO, RIPETUTO
+14.Supernova distances and redshifts, part 2 (examinable) and part 3 (examinable) [see L18] OK, AGGIUNTO, RIPETUTO
 15.SDSS galaxies vs quasars, part 1 (examinable) [see L19] OK
 16.Gravitational-wave detectability, part 1 (examinable) [see L20] OK
 17.SDSS galaxies vs quasars, part 2 or Gravitational-wave detectability, part 2 or HiggsML challenge (one examinable, the others are optional, your choice) [see L22] OK
